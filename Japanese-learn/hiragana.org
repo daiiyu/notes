@@ -1,0 +1,84 @@
+*** vocabluary
+| pronounce | kanji | meaning   |
+|-----------+-------+-----------|
+| あい      |       | love      |
+| うえ      |       | up, above |
+| いいえ    |       | no        |
+| あおい    |       | blue      |
+|           |       |           |
+
+** k-column
+|   | ｋ |    |    | ｇ |
+|---+----+----+----+----|
+| a | ka | か | が |    |
+| i | ki | き | ぎ |    |
+| u | ku | く | ぐ |    |
+| e | ke | け | げ |    |
+| o | ko | こ | ご |    |
+
+*** vocabulary
+    | pronounce | kanji | meaning   |
+    |-----------+-------+-----------|
+    | <c>       | <c>   | <c>       |
+    | がく      |       | to write  |
+    | かぎ:     |       | shadow    |
+    | きく:     |       | to listen |
+    | こえ:     |       | voice     |
+    | かぎ:     |       | key       |
+    | きおく:   |       | memory    |
+    | えいが:   |       | movie     |
+    | おおきい: |       | big       |
+
+** s-column
+|   | ｓ  |      |    | ｚ |   |
+|---+-----+------+----+----+---|
+| a | sa  | さ   | ざ |    |   |
+| i | shi | し   | じ | ji |   |
+| u | su  | す   | ず |    |   |
+| e | se  | せ   | ぜ |    |   |
+| o | so  | そ　 | ぞ |    |   |
+
+*** vocabulary
+        | pronounce    | kanji  | meaning             |
+        |--------------+--------+---------------------|
+        | <c>          | <c>    | <c>                 |
+        | ず           |        | diagram             |
+        | すし         | 寿司い | sushi               |
+        | じこ         |        | accident            |
+        | すき         |        | like                |
+        | さく         |        | to bloom            |
+        | ぞう         |        | elephant            |
+        | おかし       |        | sweetｓ             |
+        | おさけ       |        | alcohol             |
+        | さｙいご     |        | last                |
+        | そうぞう     |        | imagination         |
+        | こうこうせい |        | high school student |
+        |              |        |                     |
+
+** t-column
+
+|   | t   |    |    | d   |                       |
+|---+-----+----+----+-----+-----------------------|
+|   | ta  | た | だ |     |                       |
+|   | chi | ち | ぢ | di  | di pronounced as "ji" |
+|   | tsu | つ | づ | ｄu | du pronounced as "zu" |
+|   | te  | て | で |     |                       |
+|   | to  | と | ど |     |                       |
+
+*** vocabulary
+        | pronounce | kanji | meaning                |
+        |-----------+-------+------------------------|
+        | <c>       | <c>   | <c>                    |
+        | て        |       | hand                   |
+        | くつ      |       | shoes                  |
+        | ちず      |       | map                    |
+        | でし      |       | apprentice             |
+        | たつ      |       | to stand               |
+        | とおい    |       | far                    |
+        | つづく    |       | to continue            |
+        | どつぎ    |       | which                  |
+        | だいがく  |       | university             |
+        | あさつて  |       | the day after tomorrow |
+        | おちつく      |       |         to calm down   |
+
+26 min 52second
